@@ -4,13 +4,20 @@ POEMS
 ## 1. Subfolders
 
 Root folder should contain subfolder for poets.
-Each poets folder should use the folowing format:
+Each subfolder should use the folowing format:
 
 ```
-asnyk-adam
-mickiewicz-adam
-slowacki-juliusz
+asnyk
+mickiewicz
+slowacki
 ```
+
+Format details:
+
+* surname only
+* small case letters
+* only a-z characters
+* use dash `-` as a separator (e.g. `o-hara`) 
 
 ## 2. Commit format
 
