@@ -17,3 +17,7 @@ slowacki-juliusz
 ```
 [Adam Mickiewisz] Pan Tadeusz
 ```
+
+## 3. File encoding
+
+Please use utf-8 encoding.
