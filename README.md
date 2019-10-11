@@ -69,3 +69,12 @@ Every Morn and every Night
 Some are born to Sweet Delight,
 Some are born to Endless Night. 
 ```
+
+## 6. Branch name
+
+Branch name should be created on the basis of the poem's title, for example:
+
+```
+endless-night
+pan-tadeusz
+```
