@@ -8,7 +8,9 @@ Each subfolder should use the folowing format:
 
 ```
 asnyk
+blake
 mickiewicz
+shakespeare
 slowacki
 ```
 
