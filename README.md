@@ -78,3 +78,7 @@ Branch name should be created on the basis of the poem's title, for example:
 endless-night
 pan-tadeusz
 ```
+
+## 7. Which poems can I choose?
+
+Poems must be unique.
