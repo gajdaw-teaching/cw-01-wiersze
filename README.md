@@ -47,3 +47,25 @@ pan-tadeusz.txt
 o-dwoch-takich-co-ukradli-ksiezyc.txt
 endless-night.txt
 ```
+
+## 5. Poem format
+
+The file with poem must contain:
+
+* poets full names
+* poem title
+* empty line
+* contents
+
+For example:
+
+```
+William Blake
+Endless Night
+
+Every Night and every Morn
+Some to Misery are born.
+Every Morn and every Night
+Some are born to Sweet Delight,
+Some are born to Endless Night. 
+```
