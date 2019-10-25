@@ -82,3 +82,22 @@ pan-tadeusz
 ## 7. Which poems can I choose?
 
 Poems must be unique.
+
+## 8. GIT configuration
+
+Please use the following git commands to set up your personal info:
+
+```
+git config user.name "John Doe"
+git config user.email john.doe@example.net
+```
+
+All the commits must contain your personal info. The output of
+`git log` command must list you as the author of the commie:
+
+
+```
+commit a6357c7bc8bfa7e514c16bda3df568a207322fb5
+Author: Włodzimierz Gajda <wlodzimierz.gajda@aiqa.tech>
+Date:   Fri Oct 25 12:58:45 2019 +0200
+```
