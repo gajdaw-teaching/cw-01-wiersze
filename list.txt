@@ -12,15 +12,12 @@
     - Po balu
 5. Julian Tuwim
     - Bambo
-<<<<<<< HEAD
 6. Edgar Allan Poe
     - Alone
     - Annabel Lee
     - The Bells
     - The City 
     - The Conqueror Worm
-
-=======
 7. Friedrich Schiller  
     - Oda do radości 
     - Pieśń o dzwonie
@@ -49,3 +46,9 @@
     - Niezapominajki
 11. Tomasz Bąk 
     -Kanada
+12. Wisława Szymborska
+    - Chwila
+    - Czwarta nad ranem
+    - Pierwsza fotografia Hitlera
+    - Rozmowa z kamieniem
+    - Utopia
