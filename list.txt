@@ -6,6 +6,7 @@
     - Po balu
 4. Julian Tuwim
     - Bambo
+<<<<<<< HEAD
 5. Edgar Allan Poe
     - Alone
     - Annabel Lee
@@ -13,3 +14,28 @@
     - The City 
     - The Conqueror Worm
 
+=======
+5. Friedrich Schiller  
+    - Oda do radości 
+    - Pieśń o dzwonie
+    - Rękawiczka
+    - Rezygnacja
+    - Żurawie Ibika 
+6. Julia Hartwig 
+    - Koleżanki
+    - Odwiedziny 
+    - Przywoływanie
+    - Siostra
+    - Victoria
+7. Jan Brzechwa
+    - Ciaptak
+    - Mgła
+    - Na straganie
+    - Nietoperze
+    - Ślimak
+8. Edgar Allan Poe
+    - Alone
+    - Annabel Lee
+    - The Bells
+    - The City in the Sea
+    - The Conquere Worm
