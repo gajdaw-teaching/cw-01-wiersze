@@ -1,4 +1,4 @@
-1. Bolesław Leśmian
+﻿1. Bolesław Leśmian
     - Dusza w niebiosach
 2. Adam Mickiewicz
     - Nocleg
@@ -41,3 +41,5 @@
     - The Conquere Worm
 9. Maria Konopnicka
     - Niezapominajki
+10. Tomasz Bąk 
+    -Kanada
