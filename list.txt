@@ -4,16 +4,16 @@
     -Baba i cygan 
     -O pierdzeniu
     -Komary
-1. Bolesław Leśmian
+2. Bolesław Leśmian
     - Dusza w niebiosach
-2. Adam Mickiewicz
+3. Adam Mickiewicz
     - Nocleg
-3. Cyprian Kamil Norwid
+4. Cyprian Kamil Norwid
     - Po balu
-4. Julian Tuwim
+5. Julian Tuwim
     - Bambo
 <<<<<<< HEAD
-5. Edgar Allan Poe
+6. Edgar Allan Poe
     - Alone
     - Annabel Lee
     - The Bells
@@ -21,31 +21,31 @@
     - The Conqueror Worm
 
 =======
-5. Friedrich Schiller  
+7. Friedrich Schiller  
     - Oda do radości 
     - Pieśń o dzwonie
     - Rękawiczka
     - Rezygnacja
     - Żurawie Ibika 
-6. Julia Hartwig 
+8. Julia Hartwig 
     - Koleżanki
     - Odwiedziny
     - Przywoływanie
     - Siostra
     - Victoria
-7. Jan Brzechwa
+9. Jan Brzechwa
     - Ciaptak
     - Mgła
     - Na straganie
     - Nietoperze
     - Ślimak
-8. Edgar Allan Poe
+10. Edgar Allan Poe
     - Alone
     - Annabel Lee
     - The Bells
     - The City in the Sea
     - The Conquere Worm
-9. Maria Konopnicka
+10. Maria Konopnicka
     - Niezapominajki
-10. Tomasz Bąk 
+11. Tomasz Bąk 
     -Kanada
