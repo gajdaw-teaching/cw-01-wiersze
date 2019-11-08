@@ -49,6 +49,7 @@
     - The Conquere Worm
 10. Maria Konopnicka
     - Niezapominajki
+<<<<<<< HEAD
 11. Tomasz Bąk 
     -Kanada
 12. Wisława Szymborska
@@ -57,3 +58,13 @@
     - Pierwsza fotografia Hitlera
     - Rozmowa z kamieniem
     - Utopia
+=======
+10. Tomasz Bąk 
+    -Kanada
+11. Jerzy Kierst
+    - Czapla
+    - Czajka
+    - Jaskolka
+    - Tam
+    - Wilga
+>>>>>>> edit list
