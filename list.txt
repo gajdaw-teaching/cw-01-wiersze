@@ -58,13 +58,11 @@
     - Pierwsza fotografia Hitlera
     - Rozmowa z kamieniem
     - Utopia
-=======
-10. Tomasz Bąk 
-    -Kanada
-11. Jerzy Kierst
+
+13. Jerzy Kierst
     - Czapla
     - Czajka
     - Jaskolka
     - Tam
     - Wilga
->>>>>>> edit list
+
