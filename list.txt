@@ -1,0 +1,68 @@
+﻿1.Aleksander Fredro
+    -Baśń o 3 braciach i królewnie
+    -Pan Tadeusz XIII księga
+    -Baba i cygan 
+    -O pierdzeniu
+    -Komary
+2. Bolesław Leśmian
+    - Dusza w niebiosach
+3. Adam Mickiewicz
+    - Nocleg
+4. Cyprian Kamil Norwid
+    - Fortepian Chopina
+    - Moja piosnka
+    - Moja ojczyzna
+    - Mój ostatni sonet
+    - Pióro
+    - Po balu
+5. Julian Tuwim
+    - Bambo
+6. Edgar Allan Poe
+    - Alone
+    - Annabel Lee
+    - The Bells
+    - The City 
+    - The Conqueror Worm
+7. Friedrich Schiller  
+    - Oda do radości 
+    - Pieśń o dzwonie
+    - Rękawiczka
+    - Rezygnacja
+    - Żurawie Ibika 
+8. Julia Hartwig 
+    - Koleżanki
+    - Odwiedziny
+    - Przywoływanie
+    - Siostra
+    - Victoria
+9. Jan Brzechwa
+    - Ciaptak
+    - Mgła
+    - Na straganie
+    - Nietoperze
+    - Ślimak
+10. Edgar Allan Poe
+    - Alone
+    - Annabel Lee
+    - The Bells
+    - The City in the Sea
+    - The Conquere Worm
+10. Maria Konopnicka
+    - Niezapominajki
+<<<<<<< HEAD
+11. Tomasz Bąk 
+    -Kanada
+12. Wisława Szymborska
+    - Chwila
+    - Czwarta nad ranem
+    - Pierwsza fotografia Hitlera
+    - Rozmowa z kamieniem
+    - Utopia
+
+13. Jerzy Kierst
+    - Czapla
+    - Czajka
+    - Jaskolka
+    - Tam
+    - Wilga
+
