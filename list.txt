@@ -1,4 +1,4 @@
-﻿1.Aleksander Fredro
+1.Aleksander Fredro
     -Baśń o 3 braciach i królewnie
     -Pan Tadeusz XIII księga
     -Baba i cygan 
@@ -17,6 +17,11 @@
     - Po balu
 5. Julian Tuwim
     - Bambo
+    - Chrystus miasta
+    - Do krytyków
+    - Do prostego czlowieka
+    - Mój dzionek
+    - Wiosna
 6. Edgar Allan Poe
     - Alone
     - Annabel Lee
