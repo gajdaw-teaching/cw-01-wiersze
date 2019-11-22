@@ -54,7 +54,6 @@
     - The Conquere Worm
 10. Maria Konopnicka
     - Niezapominajki
-<<<<<<< HEAD
 11. Tomasz Bąk 
     -Kanada
 12. Wisława Szymborska
@@ -76,3 +75,13 @@
     - Do potomnego
     - O nas
     - Wczorajszemu
+15. Tupac Shakur
+    -I cry
+16. Ella Wheeler Wilcox
+    -Solitude
+17. Walted DeLaMare
+    -The Listeners
+18. Ted Hughes
+    -Lovesong
+19. Matthew Arnold 
+    -Dover Beach
