@@ -23,8 +23,10 @@ Format details:
 
 ## 2. Commit format
 
+Conventional commit:
+
 ```
-[Adam Mickiewisz] Pan Tadeusz
+feat: [Adam Mickiewicz] Pan Tadeusz
 ```
 
 ## 3. File encoding
